@@ -2,6 +2,6 @@ import './styles/global.css'
 
 export function App() {
   return (
-    <h1>Hello Darry</h1>
+    <h1>Hello There</h1>
   )
 }
